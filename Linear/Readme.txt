@@ -2,4 +2,4 @@
 
 To add more datasets, put the datasets in the newd folder. In order to execute the demo code, run the main.m file.
 
-For any issues in the code, you may contact Mr. B. Richhariya (phd1701241001@iiti.ac.in)
+For any issues in the code, you may contact on phd1701241001@iiti.ac.in.
